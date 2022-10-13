@@ -1,7 +1,7 @@
 <h1 align='center'>Welcome👋 :wave:</h1>
 
 <div align="center">
-<img src="https://telegra.ph/file/fa304b586f0104b3c8ff1.jpg" alt="Xianzhe IV" width="300" />
+<img src="https://telegra.ph/file/fa304b586f0104b3c8ff1.jpg" alt="Xianzhe IV" width="500" />
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=xzeera-id&color=blue&label=Views" />
  </p>
