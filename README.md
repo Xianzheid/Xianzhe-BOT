@@ -1,12 +1,12 @@
 <h1 align='center'>Welcome👋 :wave:</h1>
 
 <div align="center">
-<img src="https://telegra.ph/file/3024b63e3b52707d6a696.jpg" alt="SEENKU MD" width="300" />
+<img src="https://telegra.ph/file/fa304b586f0104b3c8ff1.jpg" alt="Xianzhe IV" width="300" />
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=xzeera-id&color=blue&label=Views" />
  </p>
 </p>
-<h1 align="center">Senkuu MD</h1>
+<h1 align="center">Xianzhe IV</h1>
 </div>
 
 ## Sorotan
@@ -21,7 +21,7 @@
 
 # Baca Ini!
 
-- Change [Config](https://github.com/xzeera-id/Senkuu-MD/blob/main/lib/config.json)
+- Change [Config](https://github.com/xianzheid/Xianzhe-BOT/blob/main/lib/config.json)
 - Tempat Session: lib/database/senku-md.json
 - Session Name: senku-md.json
 - Button Gak Muncul? Update Baileys
@@ -42,11 +42,6 @@ WhatsApp Bot Multi Device
 | **IMAGEMAGICK** | [HERE](https://github.com/mcollina/heroku-buildpack-imagemagick.git) |
 | **Node.js**     | heroku/nodejs|
 | **WEBP**        | [HERE](https://github.com/clhuang/heroku-buildpack-webp-binaries.git) |
-
-### Statistics
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xzeera-id&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=xzeera-id&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
 
 ## Request Fitur To
 [`Creator Here`](https://wa.me/6281312960392?text=Bang+req+fitur) 
@@ -153,3 +148,4 @@ npm start
 -   [`Zynfinity`](https://wa.me/639162506299)
 -   [`Senkuu`](https://wa.me/6281312960392)
 -   [`ZeeraID`](https://wa.me/6287798426632)
+-   [`XianzheID`](https://wa.me/6285326781097)
