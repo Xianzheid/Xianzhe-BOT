@@ -1,16 +1,16 @@
 {
-  "thumb": "https://telegra.ph/file/f9b2ed3ff30d538f086ae.jpg",
-  "namebot": "Senkuu",
-  "botNumber": "6283823742094@s.whatsapp.net",
-  "owner": ["6281312960392@s.whatsapp.net"],
-  "instagram": "https://instagram.com/repannthisori021_",
-  "author": "Yntkts",
-  "session": "senku-md",
-  "email": "yntkts@gmail.com",
+  "thumb": "https://telegra.ph/file/fa304b586f0104b3c8ff1.jpg",
+  "namebot": "Xianzhe",
+  "botNumber": "6285358805324@s.whatsapp.net",
+  "owner": ["6285326781097@s.whatsapp.net","6285358805324@s.whatsapp.net""],
+  "instagram": "https://instagram.com/xianzhe_xx",
+  "author": "XFS FAMILY",
+  "session": "xianzhe-id",
+  "email": "xtcana@gmail.com@gmail.com",
   "self": false,
   "limit": { "limitUser": 30, "gameLimitUser": 10, "gameLimitPremium": 30 },
   "packInfo":{
-    "packname": "Senkuu",
+    "packname": "Xianzhe IV",
     "author": "Beta ✓"
   },
   "ignore": {
